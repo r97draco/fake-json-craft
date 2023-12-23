@@ -12,6 +12,7 @@ export const Footer = () => {
         backgroundColor: "primary.main",
         paddingTop: 1,
         paddingBottom: 1,
+        flexGrow: 1,
       }}
       // className="bg-blue-500"
     >
